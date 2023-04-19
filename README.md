@@ -1,2 +1,2 @@
 # kvmbackup-bash
-Generates a backup of all active libcirtd domains on the host where it is executed
+Generates a backup of all active libvirtd domains on the host where it is executed
